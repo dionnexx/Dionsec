@@ -1,0 +1,4 @@
+Suggested DNS records:
+  aixblock.io. IN CAA 0 issue "letsencrypt.org"
+  aixblock.io. IN CAA 0 issuewild ";"
+  aixblock.io. IN CAA 0 iodef "mailto:security@aixblock.io"
